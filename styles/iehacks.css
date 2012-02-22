@@ -1,0 +1,168 @@
+/* CSS Document */
+
+#navbar .aboutlink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/aboutlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .aboutlink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/aboutlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .aboutlink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/about.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .aboutlink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/about.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .contactlink a:link{
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/contactlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .contactlink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/contactlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .contactlink a:hover{
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/contact.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .contactlink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/contact.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .exhibitslink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/exhibitslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .exhibitslink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/exhibitslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .exhibitslink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/exhibits.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .exhibitslink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/exhibits.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .gardenlink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/gardenlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .gardenlink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/gardenlightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .gardenlink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/garden.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .gardenlink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/garden.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .houselink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/houselightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .houselink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/houselightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .houselink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/house.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .houselink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/house.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .newslink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/newslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .newslink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/newslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .newslink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/news.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .newslink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/news.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .serviceslink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/serviceslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .serviceslink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/serviceslightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .serviceslink a:hover{
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/services.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .serviceslink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/services.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .studiolink a:link {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/studiolightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .studiolink a:visited {
+	width:26px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/studiolightnub.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .studiolink a:hover {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/studio.png', sizingMethod='crop');
+	background: none;
+}
+#navbar .studiolink a:active {
+	width:125px;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/nav/studio.png', sizingMethod='crop');
+	background: none;
+}
+
+#studio3 #sidetitleL {
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader (src='http://eileentognini.com/images/sidetitles/studio.png', sizingMethod='crop');
+	background: none;
+	width:30px;
+}
